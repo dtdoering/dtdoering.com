@@ -1,8 +1,7 @@
 ---
 authors:
 - admin
-bio: My research interests include distributed robotics, mobile computing and programmable
-  matter.
+bio: Hi! My name is Drew Doering and I am a PhD student in the lab of Chris Todd Hittinger at the University of Wisconsin-Madison. My hobbies include home-brewing, video games, cheesy puns, and being a dog-dad.
 education:
   courses:
   - course: PhD in Cellular and Molecular Biology
