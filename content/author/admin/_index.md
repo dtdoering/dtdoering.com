@@ -1,23 +1,23 @@
 ---
 authors:
 - admin
-bio: Hi! My name is Drew Doering and I am a PhD student in the lab of Chris Todd Hittinger at the University of Wisconsin-Madison. My hobbies include home-brewing, video games, cheesy puns, and being a dog-dad.
+bio: My name is Drew Doering and I am a PhD student in the lab of Chris Todd Hittinger at the University of Wisconsin-Madison. My hobbies include home-brewing, video games, cheesy puns, and being a dog-dad.
 education:
   courses:
   - course: PhD in Cellular and Molecular Biology
-    institution: University of Wisconsin—Madison
+    institution: University of Wisconsin–Madison
     year: 2019 (Expected)
   - course: BS in Biology
-    institution: University of Wisconsin—Madison
+    institution: University of Wisconsin–Madison
     year: 2012
-email: ""
+email: "dtdoering@wisc.edu"
 interests:
 - Molecular and Genome Evolution
 - Synthetic Biology
 - Iron Metabolism
 name: Drew T. Doering
 organizations:
-- name: University of Wisconsin—Madison
+- name: University of Wisconsin–Madison
   url: "https://www.wisc.edu"
 role: PhD Student
 social:
@@ -39,4 +39,4 @@ user_groups:
 - Visitors
 ---
 
-Drew T. Doering is a PhD student in the lab of Chris Todd Hittinger at the University of Wisconsin-Madison. His research interests include protein evolution, genome engineering, and high-throughput assay development.
+My name is Drew Doering and I am a PhD student in the lab of Chris Todd Hittinger at the University of Wisconsin–Madison. My hobbies include homebrewing, video games, cheesy puns, and being a dog-dad.

@@ -11,8 +11,8 @@ abstract: Operons are a hallmark of bacterial genomes, where they allow concerte
   unit, modified for eukaryotic gene expression, and maintained by selection to adapt to the highly 
   competitive, iron-limited environment.
 authors:
-- \*Kominek J
-- \***Doering DT**
+- Kominek J*
+- __Doering DT__*
 - Opulente DA
 - Shen X-X
 - Zhou X
@@ -29,7 +29,7 @@ doi: "https://doi.org/10.1016/j.cell.2019.01.034"
 featured: true
 image:
   caption: 'Graphical Abstract'
-  focal_point: ""
+  focal_point: "Top"
 links:
 - name: Full Text
   url: https://www.cell.com/cell/fulltext/S0092-8674(19)30097-2
@@ -44,10 +44,10 @@ publication: In *Cell*
 publication_short: In *Cell*
 publication_types:
 - "1"
-summary: Some yeast species harbor enterobactin biosynthesis genes unseen in other fungi. 
-  An ancient horizontal operon transfer occurred from bacteria to a group of yeasts.
-  The operon underwent genetic changes after transfer to a eukaryotic genome.
-  The genes are expressed monocistronically and result in enterobactin production.
+summary: \* Some yeast species harbor enterobactin biosynthesis genes unseen in other fungi. 
+  \* An ancient horizontal operon transfer occurred from bacteria to a group of yeasts.
+  \* The operon underwent genetic changes after transfer to a eukaryotic genome.
+  \* The genes are expressed monocistronically and result in enterobactin production.
 tags: []
 title: Eukaryotic acquisition of a bacterial operon
 # url_code: '#'
@@ -60,5 +60,3 @@ url_preprint: https://www.biorxiv.org/content/10.1101/399394v1
 # url_source: '#'
 # url_video: '#'
 ---
-
-More detail can easily be written here using *Markdown* and $\rm \LaTeX$ math code.
