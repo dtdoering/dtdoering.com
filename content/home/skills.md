@@ -6,7 +6,7 @@ active = true  # Activate this widget? true/false
 weight = 30  # Order that this section will appear.
 
 title = "Skills"
-subtitle = ""
+subtitle = "Stuff I know how to do/use"
 
 # Showcase personal skills or business features.
 # 
@@ -14,34 +14,58 @@ subtitle = ""
 # 
 # For available icons, see: https://sourcethemes.com/academic/docs/widgets/#icons
 
+# [[feature]]
+#   icon = "terminal"
+#   icon_pack = "fas"
+#   name = "Coding"
+#   description = "R, Python, Bash, Git"
+
 [[feature]]
-  icon = "r-project"
-  icon_pack = "fab"
-  name = "R"
-  description = "90%"
+  icon = "laptop-code"
+  icon_pack = "fas"
+  name = "Computing"
+  description = "R, Python, Bash, Git"
+
+[[feature]]
+  icon = "cut"
+  icon_pack = "fas"
+  name = "Genome Engineering"
+  description = "_E. coli_, _S. cerevisiae_, non-model yeasts"
+
+# [[feature]]
+#   icon = "vial"
+#   icon_pack = "fas"
+#   name = "Assays"
+#   description = "Misc"
   
 [[feature]]
-  icon = "chart-line"
+  icon = "dna"
   icon_pack = "fas"
-  name = "Statistics"
-  description = "100%"  
+  name = "Sequencing"
+  description = "Illumina (DNA Amplicon, mRNA), PacBio (mRNA), Sanger"
   
 [[feature]]
-  icon = "camera-retro"
+  icon = "braille"
   icon_pack = "fas"
-  name = "Photography"
-  description = "10%"
+  name = "Assay Design"
+  description = "RACE, HPLC-MS/MS, Chromeazurol S"
   
 [[feature]]
-  icon = "microscope"
+  icon = "palette"
   icon_pack = "fas"
-  name = "Benchwork"
-  description = "10%"
+  name = "Graphics"
+  description = "GNU Image Manipulation Program (GIMP), Inkscape"
   
 [[feature]]
-  icon = "flask"
+  icon = "tools"
   icon_pack = "fas"
-  name = "Benchwork"
-  description = "10%"
+  name = "Troubleshooting"
+  description = "Experiments, Lab and office equipment, Computers"
+  
+# [[feature]]
+#   icon = "flask"
+#   icon_pack = "fas"
+#   name = "Benchwork"
+#   description = "10%"
 
 +++
