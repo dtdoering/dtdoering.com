@@ -30,7 +30,7 @@ subtitle = "Stuff I know how to do/use"
   icon = "cut"
   icon_pack = "fas"
   name = "Genome Engineering"
-  description = "_E. coli_, _S. cerevisiae_, non-model yeasts"
+  description = "_E. coli_, _S. cerevisiae_, _Lipomyces starkeyi_, other non-model yeasts"
 
 # [[feature]]
 #   icon = "vial"
@@ -42,7 +42,7 @@ subtitle = "Stuff I know how to do/use"
   icon = "dna"
   icon_pack = "fas"
   name = "Sequencing"
-  description = "Illumina (DNA Amplicon, mRNA), PacBio (mRNA), Sanger"
+  description = "Illumina (DNA Amplicon, mRNA), PacBio (mRNA Isoseq), Sanger"
   
 [[feature]]
   icon = "braille"
