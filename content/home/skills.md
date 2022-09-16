@@ -24,7 +24,7 @@ subtitle = "Stuff I know how to do/use"
   icon = "laptop-code"
   icon_pack = "fas"
   name = "Computing"
-  description = "R, Python, Bash, Git"
+  description = "R, Python, Bash, Git, SQL, ReactJS, APIs, Snakemake, HPC, SLURM"
 
 [[feature]]
   icon = "cut"

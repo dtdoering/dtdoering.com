@@ -1,13 +1,15 @@
 ---
 authors:
 - admin
-bio: My name is Drew Doering and I am a Scientist at [Xylome](https://www.xylome.com/). I did my PhD studying protein and genome evolution using yeast in the lab of Chris Todd Hittinger at the University of Wisconsin-Madison. My hobbies include home-brewing, video games, cheesy puns, and being a dog-dad.
+bio: My name is Drew Doering and I am a Data Scientist at the [Joint Genome Institute](https://jgi.doe.gov/). I 
+did my PhD studying 
+protein and genome evolution using yeast in the lab of Chris Todd Hittinger at the University of Wisconsin-Madison. My hobbies include home-brewing, video games, cheesy puns, and being a dog-dad.
 education:
   courses:
-  - course: PhD in Cellular and Molecular Biology
+  - course: PhD | Cellular and Molecular Biology
     institution: University of Wisconsin–Madison
     year: 2020
-  - course: BS in Biology
+  - course: BS | Biology
     institution: University of Wisconsin–Madison
     year: 2012
 email: "drew.doering@gmail.com"
@@ -17,9 +19,9 @@ interests:
 - Systems Biology
 name: Drew T. Doering
 organizations:
-- name: Xylome Corporation
-  url: "https://www.xylome.com/"
-role: Scientist
+- name: DOE Joint Genome Institute
+  url: "https://jgi.doe.gov/"
+role: Data Scientist
 social:
 - icon: envelope
   icon_pack: fas
@@ -39,4 +41,5 @@ user_groups:
 - Visitors
 ---
 
-My name is Drew Doering and I am a Scientist at [Xylome](https://www.xylome.com/). I did my PhD studying protein and genome evolution using yeast in the lab of Chris Todd Hittinger at the University of Wisconsin-Madison. My hobbies include home-brewing, video games, cheesy puns, and being a dog-dad.
+My name is Drew Doering and I am a Data Scientist at the [Joint Genome Institute](https://jgi.doe.gov/). I did my PhD studying protein and genome evolution using yeast in the lab of Chris Todd Hittinger at the University of Wisconsin-Madison. My hobbies include home-brewing, video games, cheesy puns, and being a 
+dog-dad.
