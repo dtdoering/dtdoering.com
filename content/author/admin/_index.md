@@ -1,8 +1,7 @@
 ---
 authors:
 - admin
-bio: My name is Drew Doering and I am a Data Scientist at the [Joint Genome Institute](https://jgi.doe.gov/). I 
-did my PhD studying protein and genome evolution using yeast in the lab of Chris Todd Hittinger at the University of Wisconsin-Madison. My hobbies include home-brewing, video games, cheesy puns, and being a dog-dad.
+bio: My name is Drew Doering and I am a Data Scientist at the [Joint Genome Institute](https://jgi.doe.gov/). I did my PhD studying protein and genome evolution using yeast in the lab of Chris Todd Hittinger at the University of Wisconsin-Madison. My hobbies include home-brewing, video games, cheesy puns, and being a dog-dad.
 education:
   courses:
   - course: PhD | Cellular and Molecular Biology
